@@ -1,6 +1,6 @@
-#  Identificando suas Habilidades que Podem ser Remuneradas 
+#  ✅📚💰 Identificando suas Habilidades que Podem ser Remuneradas - Conclusão Curso CAIXA/ DIO
 
-Para conclusão do Curso CAIXA - Inteligência Artificial na Prática, na DIO, pude desenvolver junto ao Copilot todo o conhecimento que adquiri no curso, estruturando o meu Inventário de Habilidades, entendendo as necessidades do mercado com um fim para me mostrar caminhos para monetização. Estruturando bem os prompts para respostas diretas ae acertivas, e entregando todo o contexto necessário do Vibe Coding, pude usar três pilares essenciais que já fizeram toda a diferença: Intruções claras, Repetir instruções, e Guardrails:
+   Para conclusão do Curso CAIXA - Inteligência Artificial na Prática, na Plataforma da DIO, pude desenvolver junto ao Copilot todo o conhecimento que adquiri no curso, estruturando o meu Inventário de Habilidades. Nela, pude entender as necessidades do mercado com um fim para me mostrar possíveis caminhos para monetização. Estruturando bem os prompts para respostas diretas ae acertivas, e entregando todo o contexto necessário do Vibe Coding, pude usar três pilares essenciais que já fizeram toda a diferença: Intruções claras, Repetir instruções, e Guardrails:
 
 Segue abaixo em Markdown o Prompt refinado que pude desenvolver no Copilot:
 ````
@@ -32,7 +32,7 @@ Preciso que você faça um cruzamento com as necessidades do mercado. Você pode
 Certifique-se de fazer a análise minuciosa, compreendendo
 ````
 
-# Prints das Interações com o Modelo
+# 🖼️ Prints das Interações com o Modelo
 ![eatapa 1](https://github.com/user-attachments/assets/5bdcac38-b52e-4f3d-a791-1fbdc82a7f8e)
 ![eatapa 2](https://github.com/user-attachments/assets/6449321b-1335-433e-b389-b81b05343694)
 ![eatapa 3](https://github.com/user-attachments/assets/0c652e5f-628f-4134-905f-bc36e345409f)
@@ -70,3 +70,4 @@ Mais do que aprender a tocar, você vai descobrir como a música pode ser uma fe
 [Mapa de Habilidades DIO.pdf](https://github.com/user-attachments/files/25077376/Mapa.de.Habilidades.DIO.pdf)
 
 Foi uma jornada introdutória e interessante no mundo das IA's, e é só o começo.
+✅📚💰
